@@ -16,4 +16,15 @@ ________________________________________________________________________________
  <p> Apex,HTML, CSS, JavaScript and Soql (Sql). -Beginner </p> 
  
  ____________________________________________________________________________________________________________________
+## Education :
+---------------------------------------------------------------------------------------------------------------------
+<p> Qualification  in information technologies from Brest State Technical University. </p>
+<p> I have  a qualification  in radio- electronics from Brest polytechnical college. </p>
+<p> Qualification in Insurance from a college. </p>
 
+______________________________________________________________________________________________________________________
+## Languages:
+----------------------------------------------------------------------------------------------------------------------
+<p> English -   Pre-Intermediate </p>
+<p> Polish -    Pre-Intermediate </p>
+<p >Russian -   Native </p>
