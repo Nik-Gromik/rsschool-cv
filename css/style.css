@@ -4,9 +4,21 @@ p {
 body {
   min-height: 100vh;
   margin: 0; padding: 0;
+  background-color: #fafafa;;
+  padding: 100px;
 }
-body {
+footer {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
 }
+.container {
+  width: 1000px;
+  min-height: 800px;
+  border: 8px solid white;
+  margin: 0 auto;
+  background: #fff;
+}
+.main {
+}
+.footer {}
