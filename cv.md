@@ -9,22 +9,40 @@ ________________________________________________________________________________
   <p> I work as a builder. I like to implement innovative ideas from my clients. </p>
   <p> I want to change my job, I want to be a software developer. I think this  business field offers a lot of opportunities for professional development and career growth. I have  good communication skills. Also I’m hard-working and talented. Additionally I’m creative and self-motivated.  I’m a team player and ambitious.</p>
   
-  ____________________________________________________________________________________________________________________
+____________________________________________________________________________________________________________________
 ## Сode example: 
-----------------------------------------------------------------------------------------------------------------------
-function getTimeOfDay() {
-    var hour = new Date().getHours();
-    let x;
-    if (hour <= 6) {
-        x = "night";
-    } else if (hour <= 12) {
-        x = "Morning";
-    } else if (hour <= 18) {
-        x = "Afternoon ";
-    } else {
-        x = "Evening";
-    }
-    document.querySelector('.greeting').innerHTML = "Good " + x;
+--------------------------------------------------------------------------------------------------------------------
+    <p> function getTimeOfDay() {
+    <p>    var hour = new Date().getHours();
+    <p>  let x;
+    <p>   if (hour <= 6) {
+    <p>      x = "night";
+    <p>  } else if (hour <= 12) {
+    <p>        x = "Morning";
+    <p>   } else if (hour <= 18) {
+    <p>      x = "Afternoon ";
+    <p>   } else {
+    <p>      x = "Evening";
+    <p>   }
+    <p>   document.querySelector('.greeting').innerHTML = "Good " + x;
 }
+_____________________________________________________________________________________________________________________
+## Skills:
+---------------------------------------------------------------------------------------------------------------------
+ <p> Apex, HTML, CSS, JavaScript and Soql (Sql). -Beginner </p> 
+ 
+_____________________________________________________________________________________________________________________
+## Education:
+---------------------------------------------------------------------------------------------------------------------
+<p> Qualification in information technologies from Brest State Technical University. </p>
+<p> I have a qualification in radio- electronics from Brest polytechnical college. </p>
+<p> Qualification in Insurance from a college. </p>
+
+______________________________________________________________________________________________________________________
+## Languages:
+----------------------------------------------------------------------------------------------------------------------
+<p> English -   Pre-Intermediate </p>
+<p> Polish -    Pre-Intermediate </p>
+<p> Russian -   Native </p>
 
 
