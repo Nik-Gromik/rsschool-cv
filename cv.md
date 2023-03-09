@@ -33,8 +33,7 @@
          } else { 
             x = "Evening"; 
        } 
-      document.querySelector('.greeting').innerHTML = "Good " + x;  
-}
+      document.querySelector('.greeting').innerHTML = "Good " + x; }
 
 
  ___________________________________________________________________________________________________________________
