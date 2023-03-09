@@ -4,10 +4,11 @@
  ___________________________________________________________________________________________________________________
 ## Contact Information:
  -------------------------------------------------------------------------------------------------------------------
-  <p>   nikolay.gromik87@gmail.com      |      nikolay.gromik(@Nik-Gromik)   |      Brest, Belarus
+  <p>   nikolay.gromik87@gmail.com      |      nikolay.gromik(@Nik-Gromik)   |      Brest, Belarus | </p>
+ 
  ___________________________________________________________________________________________________________________
 ## About me:
- ------------------------------------------------------------------------------------------------------------------
+ -------------------------------------------------------------------------------------------------------------------
   <p> I live with my wife and my daugther. We like traveling. Sometimes we ride a bicycle. I spend my free time with my family. </p>
   <p> I work as a builder. I like to implement innovative ideas from my clients. </p>
   <p> I want to change my job, I want to be a software developer. I think this  business field offers a lot of opportunities for professional development and career growth. I have  good communication skills. Also I’m hard-working and talented. Additionally I’m creative and self-motivated.  I’m a team player and ambitious.</p>
@@ -20,19 +21,19 @@
  ____________________________________________________________________________________________________________________
 ## Сode example: 
  ------------------------------------------------------------------------------------------------------------------
-    <p> function getTimeOfDay() {
-    <p>    var hour = new Date().getHours();
-    <p>  let x;
-    <p>   if (hour <= 6) {
-    <p>      x = "night";
-    <p>  } else if (hour <= 12) {
-    <p>        x = "Morning";
-    <p>   } else if (hour <= 18) {
-    <p>      x = "Afternoon ";
-    <p>   } else {
-    <p>      x = "Evening";
-    <p>   }
-    <p>   document.querySelector('.greeting').innerHTML = "Good " + x;
+    <p> function getTimeOfDay() {  </p> 
+    <p>    var hour = new Date().getHours();  </p> 
+    <p>  let x; </p> 
+    <p>   if (hour <= 6) { </p> 
+    <p>      x = "night"; </p> 
+    <p>  } else if (hour <= 12) { </p> 
+    <p>        x = "Morning"; </p> 
+    <p>   } else if (hour <= 18) { </p> 
+    <p>      x = "Afternoon "; </p> 
+    <p>   } else { </p> 
+    <p>      x = "Evening"; </p> 
+    <p>   } </p> 
+    <p>   document.querySelector('.greeting').innerHTML = "Good " + x;  </p> 
 }
  ___________________________________________________________________________________________________________________
 ## Education:
