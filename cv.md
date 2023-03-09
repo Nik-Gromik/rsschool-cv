@@ -21,19 +21,19 @@
  ____________________________________________________________________________________________________________________
 ## Сode example: 
  ------------------------------------------------------------------------------------------------------------------
-    <p> function getTimeOfDay() {  
-    <p>    var hour = new Date().getHours();  
-    <p>  let x; </p> 
-    <p>   if (hour <= 6) { 
-    <p>      x = "night";  
-    <p>  } else if (hour <= 12) { 
-    <p>        x = "Morning"; </p> 
-    <p>   } else if (hour <= 18) { 
-    <p>      x = "Afternoon ";  
-    <p>   } else { 
-    <p>      x = "Evening"; 
-    <p>   } 
-    <p>   document.querySelector('.greeting').innerHTML = "Good " + x;  
+     function getTimeOfDay() {  
+        var hour = new Date().getHours();  
+        let x; </p> 
+        if (hour <= 6) { 
+         x = "night";  
+         } else if (hour <= 12) { 
+            x = "Morning"; </p> 
+         } else if (hour <= 18) { 
+            x = "Afternoon ";  
+         } else { 
+            x = "Evening"; 
+       } 
+      document.querySelector('.greeting').innerHTML = "Good " + x;  
 }
  ___________________________________________________________________________________________________________________
 ## Education:
